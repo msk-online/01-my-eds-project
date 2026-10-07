@@ -1,0 +1,631 @@
+{
+  "_readme": "AEM Assets Library manifest. 'base' is the AEM publish host (no trailing slash). Each entry is { path, name, alt }; 'path' is prefixed with 'base' unless it is a full https:// URL. Assets must be PUBLISHED in AEM to load. Generated from the wknd-shared content package under /content/dam/wknd-shared/en.",
+  "base": "https://publish-p221704-e2281378.adobeaemcloud.com",
+  "assets": [
+    {
+      "path": "/content/dam/wknd-shared/en/activities/camping/camp-summer-night.jpg",
+      "name": "Camping · Camp Summer Night",
+      "alt": "Camping · Camp Summer Night"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/climbing/climber-gear-outdoor.jpg",
+      "name": "Climbing · Climber Gear Outdoor",
+      "alt": "Climbing · Climber Gear Outdoor"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/climbing/climber-gear-rope.jpg",
+      "name": "Climbing · Climber Gear Rope",
+      "alt": "Climbing · Climber Gear Rope"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/climbing/equipment_4.jpg",
+      "name": "Climbing · Equipment 4",
+      "alt": "Climbing · Equipment 4"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/climbing/ice-climbing.jpg",
+      "name": "Ice Climbing",
+      "alt": "Ice Climbing"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/climbing/sport-climbing.jpg",
+      "name": "Sport Climbing",
+      "alt": "Sport Climbing"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/cycling/blast.jpg",
+      "name": "Cycling · Blast",
+      "alt": "Cycling · Blast"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/cycling/forest-trail.jpg",
+      "name": "Cycling · Forest Trail",
+      "alt": "Cycling · Forest Trail"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/cycling/mountain-biking.jpg",
+      "name": "Cycling · Mountain Biking",
+      "alt": "Cycling · Mountain Biking"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/cycling/mx121.jpg",
+      "name": "Cycling · Mx121",
+      "alt": "Cycling · Mx121"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/cycling/sequoiaside.jpg",
+      "name": "Cycling · Sequoiaside",
+      "alt": "Cycling · Sequoiaside"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/hiking/alpinists-himalayas.jpg",
+      "name": "Hiking · Alpinists Himalayas",
+      "alt": "Hiking · Alpinists Himalayas"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/hiking/equipment_6.jpg",
+      "name": "Hiking · Equipment 6",
+      "alt": "Hiking · Equipment 6"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/hiking/hiker-anapurna.jpg",
+      "name": "Hiking · Hiker Anapurna",
+      "alt": "Hiking · Hiker Anapurna"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/hiking/hiking-campaign.jpg",
+      "name": "Hiking Campaign",
+      "alt": "Hiking Campaign"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/skiing/alpinists-rochefort-ridge.jpg",
+      "name": "Skiing · Alpinists Rochefort Ridge",
+      "alt": "Skiing · Alpinists Rochefort Ridge"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/skiing/freeride-steep.jpg",
+      "name": "Skiing · Freeride Steep",
+      "alt": "Skiing · Freeride Steep"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/skiing/freeride.jpg",
+      "name": "Skiing · Freeride",
+      "alt": "Skiing · Freeride"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/activities/skiing/skitouring.jpg",
+      "name": "Skiing · Skitouring",
+      "alt": "Skiing · Skitouring"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/bali-surf-camp/adobestock-175749320.jpg",
+      "name": "Bali Surf Camp · Adobestock 175749320",
+      "alt": "Bali Surf Camp · Adobestock 175749320"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/beervana-portland/adam-wilson-642203-unsplash.jpg",
+      "name": "Beervana Portland · Adam Wilson 642203 Unsplash",
+      "alt": "Beervana Portland · Adam Wilson 642203 Unsplash"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/beervana-portland/adobestock-200192344.jpeg",
+      "name": "Beervana Portland · Adobestock 200192344",
+      "alt": "Beervana Portland · Adobestock 200192344"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/beervana-portland/adobestock-209250305.jpeg",
+      "name": "Beervana Portland · Adobestock 209250305",
+      "alt": "Beervana Portland · Adobestock 209250305"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/beervana-portland/adobestock-239751461.jpeg",
+      "name": "Beervana Portland · Adobestock 239751461",
+      "alt": "Beervana Portland · Adobestock 239751461"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/beervana-portland/adobestock-279232449.jpeg",
+      "name": "Beervana Portland · Adobestock 279232449",
+      "alt": "Beervana Portland · Adobestock 279232449"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/climbing-new-zealand/adobestock-140634652.jpeg",
+      "name": "Climbing New Zealand · Adobestock 140634652",
+      "alt": "Climbing New Zealand · Adobestock 140634652"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/climbing-new-zealand/adobestock-166394648.jpeg",
+      "name": "Climbing New Zealand · Adobestock 166394648",
+      "alt": "Climbing New Zealand · Adobestock 166394648"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/climbing-new-zealand/adobestock-277768563.jpeg",
+      "name": "Climbing New Zealand · Adobestock 277768563",
+      "alt": "Climbing New Zealand · Adobestock 277768563"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/climbing-new-zealand/adobestock-277948178.jpeg",
+      "name": "Climbing New Zealand · Adobestock 277948178",
+      "alt": "Climbing New Zealand · Adobestock 277948178"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/colorado-rock-climbing/adobestock-201222633.jpg",
+      "name": "Colorado Rock Climbing · Adobestock 201222633",
+      "alt": "Colorado Rock Climbing · Adobestock 201222633"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/colorado-rock-climbing/adobestock-241578158.jpg",
+      "name": "Colorado Rock Climbing · Adobestock 241578158",
+      "alt": "Colorado Rock Climbing · Adobestock 241578158"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/cycling-southern-utah/adobestock-185324648.jpg",
+      "name": "Cycling Southern Utah · Adobestock 185324648",
+      "alt": "Cycling Southern Utah · Adobestock 185324648"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/cycling-southern-utah/adobestock-221043703.jpg",
+      "name": "Cycling Southern Utah · Adobestock 221043703",
+      "alt": "Cycling Southern Utah · Adobestock 221043703"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/cycling-tuscany/adobestock-141786166.jpeg",
+      "name": "Cycling Tuscany · Adobestock 141786166",
+      "alt": "Cycling Tuscany · Adobestock 141786166"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/cycling-tuscany/adobestock-261097343.jpeg",
+      "name": "Cycling Tuscany · Adobestock 261097343",
+      "alt": "Cycling Tuscany · Adobestock 261097343"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/cycling-tuscany/adobestock-268213814.jpeg",
+      "name": "Cycling Tuscany · Adobestock 268213814",
+      "alt": "Cycling Tuscany · Adobestock 268213814"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/cycling-tuscany/adobestock-272493830.jpeg",
+      "name": "Cycling Tuscany · Adobestock 272493830",
+      "alt": "Cycling Tuscany · Adobestock 272493830"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/cycling-tuscany/adobestock-59459597.jpeg",
+      "name": "Cycling Tuscany · Adobestock 59459597",
+      "alt": "Cycling Tuscany · Adobestock 59459597"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/cycling-tuscany/adobestock-65986215.jpeg",
+      "name": "Cycling Tuscany · Adobestock 65986215",
+      "alt": "Cycling Tuscany · Adobestock 65986215"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/downhill-skiing-wyoming/adobestock-166718157.jpeg",
+      "name": "Downhill Skiing Wyoming · Adobestock 166718157",
+      "alt": "Downhill Skiing Wyoming · Adobestock 166718157"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/downhill-skiing-wyoming/adobestock-170334891.jpeg",
+      "name": "Downhill Skiing Wyoming · Adobestock 170334891",
+      "alt": "Downhill Skiing Wyoming · Adobestock 170334891"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/downhill-skiing-wyoming/adobestock-185234795.jpeg",
+      "name": "Downhill Skiing Wyoming · Adobestock 185234795",
+      "alt": "Downhill Skiing Wyoming · Adobestock 185234795"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/downhill-skiing-wyoming/adobestock-93049279.jpeg",
+      "name": "Downhill Skiing Wyoming · Adobestock 93049279",
+      "alt": "Downhill Skiing Wyoming · Adobestock 93049279"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/gastronomic-marais-tour/adobestock-270835979.jpg",
+      "name": "Gastronomic Marais Tour · Adobestock 270835979",
+      "alt": "Gastronomic Marais Tour · Adobestock 270835979"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/gastronomic-marais-tour/adobestock-294203896.jpg",
+      "name": "Gastronomic Marais Tour · Adobestock 294203896",
+      "alt": "Gastronomic Marais Tour · Adobestock 294203896"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/napa-wine-tasting/adobestock-239751461.jpg",
+      "name": "Napa Wine Tasting · Adobestock 239751461",
+      "alt": "Napa Wine Tasting · Adobestock 239751461"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/napa-wine-tasting/adobestock-277654931.jpg",
+      "name": "Napa Wine Tasting · Adobestock 277654931",
+      "alt": "Napa Wine Tasting · Adobestock 277654931"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/napa-wine-tasting/adobestock-280313729.jpg",
+      "name": "Napa Wine Tasting · Adobestock 280313729",
+      "alt": "Napa Wine Tasting · Adobestock 280313729"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/napa-wine-tasting/adobestock-286664352.jpg",
+      "name": "Napa Wine Tasting · Adobestock 286664352",
+      "alt": "Napa Wine Tasting · Adobestock 286664352"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/riverside-camping-australia/adobe_waadobe_wa_mg_2466.jpg",
+      "name": "Riverside Camping Australia · Adobe Waadobe Wa Mg 2466",
+      "alt": "Riverside Camping Australia · Adobe Waadobe Wa Mg 2466"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/riverside-camping-australia/adobestock-167833331.jpeg",
+      "name": "Riverside Camping Australia · Adobestock 167833331",
+      "alt": "Riverside Camping Australia · Adobestock 167833331"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/riverside-camping-australia/adobestock-178022573.jpeg",
+      "name": "Riverside Camping Australia · Adobestock 178022573",
+      "alt": "Riverside Camping Australia · Adobestock 178022573"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/riverside-camping-australia/adobestock-216674449.jpeg",
+      "name": "Riverside Camping Australia · Adobestock 216674449",
+      "alt": "Riverside Camping Australia · Adobestock 216674449"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/riverside-camping-australia/adobestock-238491803.jpeg",
+      "name": "Riverside Camping Australia · Adobestock 238491803",
+      "alt": "Riverside Camping Australia · Adobestock 238491803"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/riverside-camping-australia/adobestock-257541512.jpeg",
+      "name": "Riverside Camping Australia · Adobestock 257541512",
+      "alt": "Riverside Camping Australia · Adobestock 257541512"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/ski-touring-mont-blanc/adobestock-21422513.jpeg",
+      "name": "Ski Touring Mont Blanc · Adobestock 21422513",
+      "alt": "Ski Touring Mont Blanc · Adobestock 21422513"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/ski-touring-mont-blanc/adobestock-222643220.jpeg",
+      "name": "Ski Touring Mont Blanc · Adobestock 222643220",
+      "alt": "Ski Touring Mont Blanc · Adobestock 222643220"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/ski-touring-mont-blanc/adobestock-238230356.jpeg",
+      "name": "Ski Touring Mont Blanc · Adobestock 238230356",
+      "alt": "Ski Touring Mont Blanc · Adobestock 238230356"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/ski-touring-mont-blanc/adobestock-273139829.jpeg",
+      "name": "Ski Touring Mont Blanc · Adobestock 273139829",
+      "alt": "Ski Touring Mont Blanc · Adobestock 273139829"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/ski-touring-mont-blanc/adobestock-291339093.jpeg",
+      "name": "Ski Touring Mont Blanc · Adobestock 291339093",
+      "alt": "Ski Touring Mont Blanc · Adobestock 291339093"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/ski-touring-mont-blanc/adobestock-75620750.jpeg",
+      "name": "Ski Touring Mont Blanc · Adobestock 75620750",
+      "alt": "Ski Touring Mont Blanc · Adobestock 75620750"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/surf-camp-in-costa-rica/adobestock-113485796.jpeg",
+      "name": "Surf Camp In Costa Rica · Adobestock 113485796",
+      "alt": "Surf Camp In Costa Rica · Adobestock 113485796"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/surf-camp-in-costa-rica/adobestock-113490014.jpeg",
+      "name": "Surf Camp In Costa Rica · Adobestock 113490014",
+      "alt": "Surf Camp In Costa Rica · Adobestock 113490014"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/surf-camp-in-costa-rica/adobestock-266405335.jpeg",
+      "name": "Surf Camp In Costa Rica · Adobestock 266405335",
+      "alt": "Surf Camp In Costa Rica · Adobestock 266405335"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/surf-camp-in-costa-rica/adobestock-272479375.jpeg",
+      "name": "Surf Camp In Costa Rica · Adobestock 272479375",
+      "alt": "Surf Camp In Costa Rica · Adobestock 272479375"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/surf-camp-in-costa-rica/adobestock-278302117.jpeg",
+      "name": "Surf Camp In Costa Rica · Adobestock 278302117",
+      "alt": "Surf Camp In Costa Rica · Adobestock 278302117"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/surf-camp-in-costa-rica/selvaraj-surfing.jpg",
+      "name": "Surf Camp In Costa Rica · Selvaraj Surfing",
+      "alt": "Surf Camp In Costa Rica · Selvaraj Surfing"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/surf-camp-in-costa-rica/surfing_2.jpg",
+      "name": "Surf Camp In Costa Rica · Surfing 2",
+      "alt": "Surf Camp In Costa Rica · Surfing 2"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/surf-camp-in-costa-rica/surfing_5.jpg",
+      "name": "Surf Camp In Costa Rica · Surfing 5",
+      "alt": "Surf Camp In Costa Rica · Surfing 5"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/tahoe-skiing/adobestock-184591344.jpg",
+      "name": "Tahoe Skiing · Adobestock 184591344",
+      "alt": "Tahoe Skiing · Adobestock 184591344"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/tahoe-skiing/adobestock-224653243.jpg",
+      "name": "Tahoe Skiing · Adobestock 224653243",
+      "alt": "Tahoe Skiing · Adobestock 224653243"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/west-coast-cycling/adobestock-151584995.jpg",
+      "name": "West Coast Cycling · Adobestock 151584995",
+      "alt": "West Coast Cycling · Adobestock 151584995"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/west-coast-cycling/adobestock-273950672.jpg",
+      "name": "West Coast Cycling · Adobestock 273950672",
+      "alt": "West Coast Cycling · Adobestock 273950672"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/whistler-mountain-biking/adobestock-122578479.jpeg",
+      "name": "Whistler Mountain Biking · Adobestock 122578479",
+      "alt": "Whistler Mountain Biking · Adobestock 122578479"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/whistler-mountain-biking/adobestock-122615840.jpeg",
+      "name": "Whistler Mountain Biking · Adobestock 122615840",
+      "alt": "Whistler Mountain Biking · Adobestock 122615840"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/whistler-mountain-biking/adobestock-122618183.jpeg",
+      "name": "Whistler Mountain Biking · Adobestock 122618183",
+      "alt": "Whistler Mountain Biking · Adobestock 122618183"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/whistler-mountain-biking/adobestock-227565072.jpeg",
+      "name": "Whistler Mountain Biking · Adobestock 227565072",
+      "alt": "Whistler Mountain Biking · Adobestock 227565072"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/whistler-mountain-biking/adobestock-257501643.jpeg",
+      "name": "Whistler Mountain Biking · Adobestock 257501643",
+      "alt": "Whistler Mountain Biking · Adobestock 257501643"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/whistler-mountain-biking/adobestock-277761435.jpeg",
+      "name": "Whistler Mountain Biking · Adobestock 277761435",
+      "alt": "Whistler Mountain Biking · Adobestock 277761435"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/yosemite-backpacking/adobestock-196967522.jpg",
+      "name": "Yosemite Backpacking · Adobestock 196967522",
+      "alt": "Yosemite Backpacking · Adobestock 196967522"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/adventures/yosemite-backpacking/adobestock-231698835.jpg",
+      "name": "Yosemite Backpacking · Adobestock 231698835",
+      "alt": "Yosemite Backpacking · Adobestock 231698835"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/contributors/alex-iby-343837.jpg",
+      "name": "Contributors · Alex Iby 343837",
+      "alt": "Contributors · Alex Iby 343837"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/contributors/ayo-ogunseinde-237739.jpg",
+      "name": "Contributors · Ayo Ogunseinde 237739",
+      "alt": "Contributors · Ayo Ogunseinde 237739"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/contributors/ian_provo.jpg",
+      "name": "Contributors · Ian Provo",
+      "alt": "Contributors · Ian Provo"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/contributors/jacob_wester.jpg",
+      "name": "Contributors · Jacob Wester",
+      "alt": "Contributors · Jacob Wester"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/contributors/justin_barr.jpg",
+      "name": "Contributors · Justin Barr",
+      "alt": "Contributors · Justin Barr"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/contributors/kumar-selvaraj.jpg",
+      "name": "Contributors · Kumar Selvaraj",
+      "alt": "Contributors · Kumar Selvaraj"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/contributors/stacey-roswells.jpg",
+      "name": "Contributors · Stacey Roswells",
+      "alt": "Contributors · Stacey Roswells"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/alaska-adventure/alaskan-grizzly.jpg",
+      "name": "Alaska Adventure · Alaskan Grizzly",
+      "alt": "Alaska Adventure · Alaskan Grizzly"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/alaska-adventure/alaskan-landscape-01.jpg",
+      "name": "Alaska Adventure · Alaskan Landscape 01",
+      "alt": "Alaska Adventure · Alaskan Landscape 01"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/alaska-adventure/bear-path.jpg",
+      "name": "Alaska Adventure · Bear Path",
+      "alt": "Alaska Adventure · Bear Path"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/alaska-adventure/camp-alaska.jpg",
+      "name": "Alaska Adventure · Camp Alaska",
+      "alt": "Alaska Adventure · Camp Alaska"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/alaska-adventure/fish.jpg",
+      "name": "Alaska Adventure · Fish",
+      "alt": "Alaska Adventure · Fish"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/alaska-adventure/plane.jpg",
+      "name": "Alaska Adventure · Plane",
+      "alt": "Alaska Adventure · Plane"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/arctic-surfing/camp-tent.jpg",
+      "name": "Arctic Surfing · Camp Tent",
+      "alt": "Arctic Surfing · Camp Tent"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/arctic-surfing/majestic-rainbow.jpg",
+      "name": "Arctic Surfing · Majestic Rainbow",
+      "alt": "Arctic Surfing · Majestic Rainbow"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/arctic-surfing/northern-lights.jpg",
+      "name": "Arctic Surfing · Northern Lights",
+      "alt": "Arctic Surfing · Northern Lights"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/arctic-surfing/surfer-back-from-the-ocean.jpg",
+      "name": "Arctic Surfing · Surfer Back From The Ocean",
+      "alt": "Arctic Surfing · Surfer Back From The Ocean"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/arctic-surfing/surfer-wave-02.jpg",
+      "name": "Arctic Surfing · Surfer Wave 02",
+      "alt": "Arctic Surfing · Surfer Wave 02"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/fly-fishing-amazon/amazon-river-01.jpg",
+      "name": "Fly Fishing Amazon · Amazon River 01",
+      "alt": "Fly Fishing Amazon · Amazon River 01"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/fly-fishing-amazon/amazon-river-02.jpg",
+      "name": "Fly Fishing Amazon · Amazon River 02",
+      "alt": "Fly Fishing Amazon · Amazon River 02"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/fly-fishing-amazon/dorado-fish-03.jpg",
+      "name": "Fly Fishing Amazon · Dorado Fish 03",
+      "alt": "Fly Fishing Amazon · Dorado Fish 03"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/fly-fishing-amazon/milkyway-amazon.jpg",
+      "name": "Fly Fishing Amazon · Milkyway Amazon",
+      "alt": "Fly Fishing Amazon · Milkyway Amazon"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/la-skateparks/adobestock-243954373.jpg",
+      "name": "La Skateparks · Adobestock 243954373",
+      "alt": "La Skateparks · Adobestock 243954373"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/la-skateparks/article_01_hero.png",
+      "name": "La Skateparks · Article 01 Hero",
+      "alt": "La Skateparks · Article 01 Hero"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/la-skateparks/article_01_picture_01.png",
+      "name": "La Skateparks · Article 01 Picture 01",
+      "alt": "La Skateparks · Article 01 Picture 01"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/la-skateparks/robson-hatsukami-morgan-280159.jpg",
+      "name": "La Skateparks · Robson Hatsukami Morgan 280159",
+      "alt": "La Skateparks · Robson Hatsukami Morgan 280159"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/la-skateparks/skateboard-hero.jpg",
+      "name": "La Skateparks · Skateboard Hero",
+      "alt": "La Skateparks · Skateboard Hero"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/la-skateparks/stacey-roswells.jpg",
+      "name": "La Skateparks · Stacey Roswells",
+      "alt": "La Skateparks · Stacey Roswells"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/san-diego-surf-spots/adobestock-164735399.jpeg",
+      "name": "San Diego Surf Spots · Adobestock 164735399",
+      "alt": "San Diego Surf Spots · Adobestock 164735399"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/san-diego-surf-spots/adobestock-166388792.jpeg",
+      "name": "San Diego Surf Spots · Adobestock 166388792",
+      "alt": "San Diego Surf Spots · Adobestock 166388792"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/san-diego-surf-spots/adobestock-203375718.jpeg",
+      "name": "San Diego Surf Spots · Adobestock 203375718",
+      "alt": "San Diego Surf Spots · Adobestock 203375718"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/san-diego-surf-spots/adobestock-266406767.jpeg",
+      "name": "San Diego Surf Spots · Adobestock 266406767",
+      "alt": "San Diego Surf Spots · Adobestock 266406767"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/san-diego-surf-spots/adobestock-272184938.jpeg",
+      "name": "San Diego Surf Spots · Adobestock 272184938",
+      "alt": "San Diego Surf Spots · Adobestock 272184938"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/san-diego-surf-spots/beach-walking.jpg",
+      "name": "San Diego Surf Spots · Beach Walking",
+      "alt": "San Diego Surf Spots · Beach Walking"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/skitouring/skitouring1sjoeberg.jpg",
+      "name": "Skitouring1Sjoeberg",
+      "alt": "Skitouring1Sjoeberg"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/skitouring/skitouring3sjoeberg.jpg",
+      "name": "Skitouring3Sjoeberg",
+      "alt": "Skitouring3Sjoeberg"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/skitouring/skitouring5sjoeberg.jpg",
+      "name": "Skitouring5Sjoeberg",
+      "alt": "Skitouring5Sjoeberg"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/skitouring/skitouring6sjoeberg.jpg",
+      "name": "Skitouring6Sjoeberg",
+      "alt": "Skitouring6Sjoeberg"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/skitouring/skitouring8sjoeberg.jpg",
+      "name": "Skitouring8Sjoeberg",
+      "alt": "Skitouring8Sjoeberg"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/western-australia/adobe-waadobe-wa-b6a6978.jpg",
+      "name": "Western Australia · Adobe Waadobe Wa B6A6978",
+      "alt": "Western Australia · Adobe Waadobe Wa B6A6978"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/western-australia/adobe-waadobe-wa-b6a7083.jpg",
+      "name": "Western Australia · Adobe Waadobe Wa B6A7083",
+      "alt": "Western Australia · Adobe Waadobe Wa B6A7083"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/western-australia/adobe-waadobe-wa-mg-3094.jpg",
+      "name": "Western Australia · Adobe Waadobe Wa Mg 3094",
+      "alt": "Western Australia · Adobe Waadobe Wa Mg 3094"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/western-australia/adobe-waadobe-wa-mg-3851.jpg",
+      "name": "Western Australia · Adobe Waadobe Wa Mg 3851",
+      "alt": "Western Australia · Adobe Waadobe Wa Mg 3851"
+    },
+    {
+      "path": "/content/dam/wknd-shared/en/magazine/western-australia/adobestock-156407519.jpeg",
+      "name": "Western Australia · Adobestock 156407519",
+      "alt": "Western Australia · Adobestock 156407519"
+    }
+  ]
+}
