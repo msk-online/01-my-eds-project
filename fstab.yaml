@@ -1,2 +1,2 @@
 mounts:
-  /: https://docs.google.com/document/d/1n4JKLVg_f9vDyXVcThBtW2QDPtq8_azKCNI9xk6r8ls/edit
+  /: /index.md
